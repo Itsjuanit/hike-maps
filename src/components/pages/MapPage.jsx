@@ -1,4 +1,3 @@
-// pages/MapPage.jsx
 import React, { useState, useEffect } from "react";
 import FileUploader from "../FileUploader";
 import MapView from "../MapView";
